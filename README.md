@@ -37,7 +37,7 @@ Após baixar o projeto e ter os pré-requisitos instalados, execute dentro da pa
            2.2 - linkar o projeto com o GitHub - terminal: git remote add origin https://github.com/SeuUser/SeuProjeto.git
            2.3 - caso não tenha criado uma branch ainda, você precisa criar uma - terminal: git branch -M 'x'
            2.4 - criar um pacote com os dados a serem enviados - terminal: git add .
-            2.5 - adicionar um comentário sobre o que vai ser enviado neste pacote -  - terminal: git commit -m "projeto piloto"
+           2.5 - adicionar um comentário sobre o que vai ser enviado neste pacote -  - terminal: git commit -m "projeto piloto"
            2.6 - caso seja solicitado entre com suas credenciais
                2.6.1 - git config --global user.email SeuEmail
                2.6.2 - git config --global user.name SeuNomeDeUsuario
