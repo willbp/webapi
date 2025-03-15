@@ -56,6 +56,7 @@ Criando sua pipeline do zero:
         			2.3.1 - Nessa configuração será executada a pipeline toda vez que for feito um PR para branch master.
         			2.3.2 - Executando seus respectivos jobs em uma 'máquina' que utiliza ubuntu
         			2.3.3 - E roda os passos para clonar o projeto e executar o projeto
+![Image](https://github.com/user-attachments/assets/2ac053aa-dade-47ec-9500-6f9b79b73b04)
 ###### Lista de Actions utilizada no projeto:
 * [Checkout V4](https://github.com/marketplace/actions/checkout) 
 * [Cypress-io](https://github.com/marketplace/actions/cypress-io) 
