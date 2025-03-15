@@ -72,6 +72,7 @@ Criando sua pipeline do zero:
 
 No GitHub crie um Pull Request, e será iniciado a execução da pipeline! Com isso vai começar a rodar a pipeline, deu sucesso? pode fazer o merge do pull request, caso contrário você precisa verificar e corrigir os erros nos seus testes.
 
+
 ![Image](https://github.com/user-attachments/assets/9fd5d951-c149-4339-ae50-495cc982342d)
 
 **Autor: _William Bortoluzzi Pereira_** ❤️ 03.25
