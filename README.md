@@ -57,8 +57,8 @@ Criando sua pipeline do zero:
         			2.3.2 - Executando seus respectivos jobs em uma 'máquina' que utiliza ubuntu
         			2.3.3 - E roda os passos para clonar o projeto e executar o projeto
 ###### Lista de Actions utilizada no projeto:
-[Checkout V4](https://github.com/marketplace/actions/checkout)
-[Cypress-io](https://github.com/marketplace/actions/cypress-io)
+[Checkout V4](https://github.com/marketplace/actions/checkout) 
+[Cypress-io](https://github.com/marketplace/actions/cypress-io) 
 
 ###### Após é só enviar sua branch e testar a pipeline
 *         1 - git add .
